@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 title: Jack Kroger
 markdown: kramdown
 description: Jack Kroger's research
+
