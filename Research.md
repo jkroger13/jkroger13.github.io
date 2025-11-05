@@ -1,7 +1,11 @@
 layout: page
+theme: minima
+minima:
+  nav_pages:
+    - Research.md
 title: "Research"
 permalink: /research
-
+markdown: kramdown
 
 Working Papers
 
