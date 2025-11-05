@@ -1,6 +1,10 @@
 theme: minima
+minima:
+  nav_pages:
+    - Research.md
 title: Jack Kroger
 markdown: kramdown
 description: Jack Kroger's research
+
 
 
