@@ -3,3 +3,4 @@ I am a Policy Analysis Ph.D. candidate at the RAND School of Public Policy and a
 
 Here, you can find copies of my CV, job market paper, and published work.
 
+<a href="https://www.linkedin.com/in/jack-kroger-3706825a" > Linkedin </a> / <a href="mailto:jkroger@rand.edu" > Email </a> / <a href="Kroger Jack CV.pdf" > CV </a>
