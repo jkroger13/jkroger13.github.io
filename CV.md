@@ -1,3 +1,9 @@
+---
+layout: page
+title: "CV"
+permalink: /cv
+markdown: kramdown
+---
 
 <a href="Kroger Jack CV.pdf"> Download a copy of my CV here </a>
 
