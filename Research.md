@@ -20,12 +20,12 @@ This paper uses the introduction of state financial education mandates to estima
 
 # Published Journal Articles
 
-### “Changes in Perceptions of Antibiotic Stewardship Among Neonatal Intensive Care Unit Providers Over the Course of a Learning Collaborative: A Prospective, Multisite, Mixed-Methods Evaluation”
+“Changes in Perceptions of Antibiotic Stewardship Among Neonatal Intensive Care Unit Providers Over the Course of a Learning Collaborative: A Prospective, Multisite, Mixed-Methods Evaluation”  
 Nabeel Qureshi, Jack Kroger, Kenneth Zangwill, Neha Joshi, Kurlen Payton, Peter Mendel  
 <a href="https://www.nature.com/articles/s41372-023-01823-0"> Published in the Journal of Perinatology, 2024 </a>  
 This paper examines the impact of a learning collaborative on perceptions of antibiotic stewardship at a selection of California NICUs. I assisted with the thematic coding of pre and post interviews for the collaborative and analyzed data on progress participating hospitals made toward their stewardship goals.  
 
-### “Disciplinary Trends in the Use of the Delphi Method: A Bibliometric Analysis”
+“Disciplinary Trends in the Use of the Delphi Method: A Bibliometric Analysis”  
 Dmitry Khodyakov, Sean Grant, Jack Kroger, Catria Gadwah-Meaden, Aneesa Motala, Jody Larkin  
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289009"> Published in PLoS One, 2023 </a>
 This paper examines the evolution of the use of the Delphi method across disciplines from its creation in the 1960s to the present. I participated in the abstract screening to create the data for the paper and drafted text and figures of the bibliometric analysis.
@@ -33,23 +33,24 @@ This paper examines the evolution of the use of the Delphi method across discipl
 
 # Published RAND Reports
 
-### “An Integrated Model of Recruiting Resources: Optimal Resource Allocation for Regular Army and Army Reserve Recruiting,”  
+“An Integrated Model of Recruiting Resources: Optimal Resource Allocation for Regular Army and Army Reserve Recruiting,”  
 Avery Calkins, Jeffrey Wenger, Jeremy Eckhause, Craig Bond, Tiffany Berglund, Jack Kroger, Daniel Schwam, 2025  
 <a href="https://www.rand.org/pubs/research_reports/RRA2441-1.html"> RAND Research Report </a>
 The report combined separate models estimating the impacts of resource allocation regular Army and reserve recruitment outcomes. I conducted a literature review and drafted appendix material on how academic and commercial researchers model the impact of multichannel marketing.
 
-### “National Guard Youth ChalleNGe and Job ChalleNGe: Metrics for Success,”  
+“National Guard Youth ChalleNGe and Job ChalleNGe: Metrics for Success,”  
 Stephani L. Wrabel, Joshua Eagan, Grace Falgoust, Jenna W. Kramer, Jack Kroger, Jonah Kushner, Kata Mihaly, Peter Nguyen, Thomas E. Trail, Jennie W. Wenger, et al., 2024  
 <a href="https://www.rand.org/pubs/research_reports/RRA1229-3.html"> RAND Research Report </a>
 This annual report tracks performance metrics for the National Guard’s Youth ChalleNGe and Job ChalleNGe programs. For the 2024 version, I merged ACS and social capital data from Opportunity Insights with administrative data on National Guard Youth Challenge program candidates to compare differences in economic mobility, poverty, and neighborhood characteristics for areas that Challenge candidates come from over time and relative to national averages.
 
-### “Intellectual, Developmental, and Physical Disabilities in U.S. Legal Settings: A Scoping Review,”  
+“Intellectual, Developmental, and Physical Disabilities in U.S. Legal Settings: A Scoping Review,”  
 Stephanie Brooks Holliday, Andrew Scruggs, Allyson D. Gittens, Samantha Matthews, Catria Gadwah-Meaden, Rebecca L. Wolfe, Jack Kroger, Alina I. Palimaru, 2023  
 <a href="https://www.rand.org/pubs/research_reports/RRA2880-1.html"> RAND Research Report </a>  
 This report examined barriers to access and challenges that individuals with disabilities face while nagivating the U.S. justice system. I participated in a literature scan and full text abstraction of identified papers to identify what barriers and challenges have been documented already in existing academic literature and legal reviews.
 
-### “RAND Methodological Guidance for Conducting and Critically Appraising Delphi Panels,”  
+“RAND Methodological Guidance for Conducting and Critically Appraising Delphi Panels,”  
 Dmitry Khodyakov, Sean Grant, Jack Kroger, Melissa Bauman, 2023  
 <a href="https://www.rand.org/pubs/tools/TLA3082-1.html"> RAND Research Report </a>  
 This research tool summarizes guidance from various sources and provides recommendations on how to best conduct and appraise the results from a Delphi Panel. I assisted with the literature scan and text review and drafted multiple chapters for the report that proceeds the final appraisal tool.
 
+See my CV for a full list of unpublished RAND projects and reports.
