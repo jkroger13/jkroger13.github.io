@@ -46,7 +46,7 @@ This annual report tracks performance metrics for the National Guard’s Youth C
 <a href="https://www.rand.org/pubs/research_reports/RRA2880-1.html"> “Intellectual, Developmental, and Physical Disabilities in U.S. Legal Settings: A Scoping Review,” </a>  
 Stephanie Brooks Holliday, Andrew Scruggs, Allyson D. Gittens, Samantha Matthews, Catria Gadwah-Meaden, Rebecca L. Wolfe, Jack Kroger, Alina I. Palimaru, 2023  
 RAND Research Report  
-This report examined barriers to access and challenges that individuals with disabilities face while nagivating the U.S. justice system. I participated in a literature scan and full text abstraction of identified papers to identify what barriers and challenges have been documented already in existing academic literature and legal reviews.
+This report examined barriers to access and challenges that individuals with disabilities face while navigating the U.S. justice system. I participated in a literature scan and full text abstraction of identified papers to identify what barriers and challenges have been documented already in existing academic literature and legal reviews.
 
 <a href="https://www.rand.org/pubs/tools/TLA3082-1.html"> “RAND Methodological Guidance for Conducting and Critically Appraising Delphi Panels,” </a>  
 Dmitry Khodyakov, Sean Grant, Jack Kroger, Melissa Bauman, 2023  
