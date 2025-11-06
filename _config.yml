@@ -1,10 +1,12 @@
 theme: minima
 minima:
   nav_pages:
+    - CV.md
     - Research.md
 title: Jack Kroger
 markdown: kramdown
-description: Jack Kroger's research
+description: Ph.D Candidate - RAND School of Public Policy
+
 
 
 
