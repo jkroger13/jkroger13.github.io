@@ -1,7 +1,9 @@
+---
 layout: page
 title: "Research"
 permalink: /research
 markdown: kramdown
+---
 
 Working Papers
 
