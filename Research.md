@@ -17,6 +17,9 @@ May 2023
 (Presented at 2023 American Council on Consumer Interests Conference)  
 This paper uses the introduction of state financial education mandates to estimate the impact of financial education on student debt outcomes among young adults. I use changes to exposure to financial education in high school stemming from financial education mandates and data from the Survey of Household Economic Decision Making (SHED) to conclude that increased financial education in response to these mandates is associated with a 5.5% decrease in the likelihood recent college graduates are behind on their student debt payments. Given the variation in treatment timing, I test these results using updated difference-in-differences models and conclude that the results are robust for just a subset of the sample who reported only ‘doing OK’ financially but not for those who reported struggling or being comfortable financially.  
 
+### <a href="Kroger_Disparities in Student Debt Burdens.pdf"> "Racial Disparities in Student Loan Burdens and Debt Cancellation" </a>
+November 2022  
+This short analysis uses data in the SHED to document racial disparities in student debt burdens and the how different plans for cancellation would impact these disparities. While broad-based loan cancellation can reduce disparities, it would require substantial amounts of forgiveness above any proposed plan to eliminate disparities. Better targeted cancellations based on income, length and amount of debt, or other factors would likely be more effective.
 
 # Published Journal Articles
 
